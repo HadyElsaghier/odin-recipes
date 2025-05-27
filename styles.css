@@ -1,0 +1,70 @@
+/* HOME PAGE */
+body {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 50px 200px;
+}
+
+.odinrecipes h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.odinrecipes ul {
+  padding: 20px;
+  margin-left: 100px;
+}
+.odinrecipes li {
+  font-size: 20px;
+  padding: 10px;
+  /* margin: 20px; */
+}
+
+/* LASAGNA PAGE */
+.lasagna {
+  margin: 0 auto;
+  width: 50%;
+}
+.homebutton {
+  color: brown;
+  background-color: lightpink;
+  padding: 15px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.lasagna h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 150px;
+}
+.lasagna img {
+  width: 600px;
+  height: 300px;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+.lasagna p,
+.lasagna li {
+  color: rgb(66, 66, 66);
+}
+.lasagna li {
+  padding: 5px;
+  max-width: 600px;
+}
+.lasagna p {
+  max-width: 600px;
+  padding: 10px;
+}
+.lasagna h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+.lasagna h3 {
+  color: rgb(49, 49, 49);
+  text-decoration: lightpink wavy underline;
+  margin-top: 50px;
+}
